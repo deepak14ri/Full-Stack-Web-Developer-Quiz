@@ -8,6 +8,7 @@
 <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/node.js/node.js-quiz.md" class="button">NodeJS</a>&nbsp;&nbsp;
 <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/mongodb/mongodb-quiz.md" class="button">MongoDB</a>&nbsp;&nbsp;
 <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/mysql/mysql-quiz.md" class="button">MySQL</a>&nbsp;&nbsp;
+<a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/json/json-quiz.md" class="button">JSON</a>&nbsp;&nbsp;
 <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/git/git-quiz.md" class="button">Git/Github</a>&nbsp;&nbsp;
 <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/rest-api/rest-api-quiz.md" class="button">RestAPI</a>&nbsp;&nbsp;
 <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/aws/aws-quiz.md" class="button">AWS</a>
