@@ -12,4 +12,5 @@
 <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/git/git-quiz.md" class="button">Git/Github</a>&nbsp;&nbsp;
 <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/rest-api/rest-api-quiz.md" class="button">RestAPI</a>&nbsp;&nbsp;
 <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/aws/aws-quiz.md" class="button">AWS</a>
+<br/><br/><br/>
 ![image](https://github.com/deepak14ri/Full-Stack-Web-Developer-Quiz/assets/49471265/fd1b9623-1052-4a81-a0c8-681f7122f17c)
