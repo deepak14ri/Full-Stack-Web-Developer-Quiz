@@ -10,4 +10,4 @@
 <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/mysql/mysql-quiz.md" class="button">MySQL</a>&nbsp;&nbsp;
 <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/git/git-quiz.md" class="button">Git/Github</a>&nbsp;&nbsp;
 <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/rest-api/rest-api-quiz.md" class="button">RestAPI</a>&nbsp;&nbsp;
-<a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/aws/aws-quiz.md" class="button">RestAPI</a>
+<a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/aws/aws-quiz.md" class="button">AWS</a>
