@@ -1,4 +1,4 @@
-# Full-Stack-Web-Developer-Quiz
+# Full Stack Web Developer Quiz Links
 <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/java/java-quiz.md" class="button">Java</a>&nbsp;&nbsp;
 <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/python/python-quiz.md" class="button">Python</a>&nbsp;&nbsp;
 <a href="https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/main/html/html-quiz.md" class="button">HTML</a>&nbsp;&nbsp;
